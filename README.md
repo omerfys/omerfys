@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/omerfys">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=680&lines=Creative+Developer+%26+Software+Craftsman;Building+Interactive+Canvas+Engines+%26+Web+Tools;Crafting+Generative+Art%2C+2D+Physics+%26+Realtime+Apps;Obsessed+with+60+FPS+Performance+%26+Polished+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=680&lines=Creative+Developer+%26+Software+Engineer;Building+Interactive+Canvas+Engines+%26+Web+Tools;Crafting+Generative+Art%2C+2D+Physics+%26+Realtime+Apps;Obsessed+with+60+FPS+Performance+%26+Polished+Design" alt="Typing SVG" />
   </a>
 </div>
 
