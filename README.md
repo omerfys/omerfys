@@ -59,7 +59,9 @@ I am a software developer with a passion for creative coding, procedural graphic
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">Boomfy (In Development)</h3>
+      <h3 align="left">
+        <a href="https://github.com/omerfys/Boomfy">Boomfy</a>
+      </h3>
       <p>Interactive web destruction sandbox and 2D physics arcade shooter. Renders any website through a local streaming proxy with stickman physics, 10 arsenal weapons, and parallax pixel worlds.</p>
       <p>
         <img src="https://img.shields.io/badge/Physics-2D%20Engine-EF4444?style=flat-square" alt="Physics" />
