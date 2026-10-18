@@ -36,24 +36,24 @@ I am a software developer with a passion for creative coding, procedural graphic
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/omerfys/Typerfy">Typerfy</a>
+        <a href="https://github.com/omerfys/Omi">Omi</a>
       </h3>
-      <p>Generative botanical typography engine & kinetic canvas art system. Simulates organic vine crawling, Sakura blossoms, and dynamic flower budding directly on custom user text.</p>
+      <p>Adaptive AI desktop companion & coding workspace island. Features real-time voice assistant powered by Google Antigravity, Hey Omi wake word, autonomous vision computer-use loop, and glassmorphism hub.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/HTML5-Canvas%202D-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas" />
-        <img src="https://img.shields.io/badge/Generative-Art%20Engine-8B5CF6?style=flat-square" alt="Generative" />
+        <img src="https://img.shields.io/badge/Rust-Tauri%20v2-orange?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/TypeScript-Vite-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/AI-Antigravity%20Voice-8B5CF6?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/omerfys/tiktok-live-rating-overlay">TikTok Live Rating Overlay</a>
+        <a href="https://github.com/omerfys/Cleanfy">Cleanfy</a>
       </h3>
-      <p>Production-ready broadcast overlay for OBS and TikTok Live Studio. Features live 1-10 chat rating, TikFinity event integration, dynamic leaderboard tracking, and raffle wheel system.</p>
+      <p>Intelligent desktop vacuum cleaner & physics-based organizer. Simulates a live roaming vacuum with Matter.js 2D collision physics, LiDAR obstacle raycasting, automated file clustering, and zero-loss undo.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket" />
-        <img src="https://img.shields.io/badge/OBS-Studio%20Overlay-27272A?style=flat-square&logo=obsstudio&logoColor=white" alt="OBS" />
+        <img src="https://img.shields.io/badge/React%2019-Electron-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Matter.js-2D%20Physics-E34F26?style=flat-square" alt="Matter.js" />
+        <img src="https://img.shields.io/badge/Tailwind-CSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
       </p>
     </td>
   </tr>
@@ -70,11 +70,14 @@ I am a software developer with a passion for creative coding, procedural graphic
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">Interactive Systems & Overlays</h3>
-      <p>Custom streaming setups, low-latency client-server architectures, and automated broadcasting utilities designed for creators and community engagement.</p>
+      <h3 align="left">
+        <a href="https://github.com/omerfys/Typerfy">Typerfy</a>
+      </h3>
+      <p>Generative botanical typography engine & kinetic canvas art system. Simulates organic vine crawling, Sakura blossoms, and dynamic flower budding directly on custom user text.</p>
       <p>
-        <img src="https://img.shields.io/badge/Architecture-Event--Driven-06B6D4?style=flat-square" alt="Architecture" />
-        <img src="https://img.shields.io/badge/UI%2FUX-Dark%20Aesthetic-6366F1?style=flat-square" alt="UI" />
+        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/HTML5-Canvas%202D-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas" />
+        <img src="https://img.shields.io/badge/Generative-Art%20Engine-8B5CF6?style=flat-square" alt="Generative" />
       </p>
     </td>
   </tr>
