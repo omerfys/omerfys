@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/omerfys?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/omerfys/omerfys?style=flat-square&color=6366F1&label=Status&labelColor=1E1E2E" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Active-6366F1?style=flat-square&labelColor=1E1E2E" alt="Status" />
   </a>
   <a href="https://github.com/omerfys?tab=followers">
     <img src="https://img.shields.io/github/followers/omerfys?style=flat-square&logo=github&color=38BDF8&label=Followers&labelColor=1E1E2E" alt="Followers" />
@@ -106,7 +106,7 @@ I am a software developer with a passion for creative coding, procedural graphic
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=omerfys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=c0caf5" alt="Ömer's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=omerfys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=c0caf5" alt="Ömer's GitHub Stats" />
       </td>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfys&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f43f5e&currStreakNum=c0caf5&sideNums=818cf8&sideLabels=a9b1d6&dates=a9b1d6" alt="Ömer's GitHub Streak" />
@@ -116,7 +116,7 @@ I am a software developer with a passion for creative coding, procedural graphic
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c0caf5" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omerfys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c0caf5" alt="Top Languages" />
 </div>
 
 ---
