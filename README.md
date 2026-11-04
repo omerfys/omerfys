@@ -15,6 +15,9 @@
   <a href="https://github.com/omerfys?tab=followers">
     <img src="https://img.shields.io/github/followers/omerfys?style=flat-square&logo=github&color=38BDF8&label=Followers&labelColor=1E1E2E" alt="Followers" />
   </a>
+  <a href="https://hits.sh/github.com/omerfys/">
+    <img src="https://hits.sh/github.com/omerfys.svg?style=flat-square&label=Profile%20Views&color=F43F5E&labelColor=1E1E2E" alt="Profile Views" />
+  </a>
   <img src="https://img.shields.io/badge/Focus-Creative%20Coding%20%26%20Interactive%20Apps-10B981?style=flat-square&labelColor=1E1E2E" alt="Focus" />
 </p>
 
